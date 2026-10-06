@@ -20,7 +20,7 @@ Pommu(`https://ch.dlsite.com/pommu/`)のタイムラインを、一定時間お�
 1. [Tampermonkey](https://www.tampermonkey.net/) をブラウザに入れます。
 2. 次のリンクを開き、インストールします。
 
-   https://raw.githubusercontent.com/4STRA1/pommu-tl-auto-refresh/main/pommu-tl-auto-refresh5.user.js
+   https://raw.githubusercontent.com/4STRA1/pommu-tl-auto-refresh/main/pommu-tl-auto-refresh.user.js
 
 ## 使い方
 
